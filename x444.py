@@ -33,11 +33,11 @@ token = __config__["token"]
 os.system("cls") if os.name == "nt" else os.system("clear")
 
 x444_art = """
-                                          {}__ __  __ __  __ __
-                                    {}_  __/ // / / // / / // /
-                                   {}| |/_/ // /_/ // /_/ // /_
-                                  {}_>  </__  __/__  __/__  __/
-                                  {}/_/|_|  /_/    /_/    /_/{}
+                                  IIIIIIII   IIIIII    IIIIIII  II        II
+                                  III   II  II     II  II  II    II     II
+                                  IIIIIIII IIIIIIIIII  IIIIIII     II  II
+                                  III      II      II  II \\\       IIII
+                                  III      II      II  II \\\        II
                                *annihilating faggs is our weapon*
                               ═══════════════════════════════════         
                          ═════════════════════════════════════════════
